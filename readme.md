@@ -1,15 +1,14 @@
-# Portfolio
-## First project - Timetable 
+## First project - Timetable improvement
  Goal of this project was to **improve the app visually and making it more user-friendly**. 
 
 My responsibility was **Figma**,   
 I did the designing and prototyping. 
 
-We started out simple:
+We started out quite simple:
  * We gathered together and worked out our plan for the next three days.
  * Went to talk with the teachers for feedback about Tahvel (likes and dislikes, their own ideas).
 
- And with that note we ended the day.
+ And on that note we ended the first day.
 
  On the **second day** we started doing some actual work:
  * We looked over the feedback once more and depending on that we started sketching out our own version.
